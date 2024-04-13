@@ -1,0 +1,86 @@
+EMU8086 GENERATED LISTING. MACHINE CODE <- SOURCE.
+ 
+LR1.com -- emu8086 assembler version: 4.05  
+ 
+[ 31.10.2022  --  15:02:20 ] 
+ 
+===================================================================================================
+[LINE]     LOC: MACHINE CODE                          SOURCE
+===================================================================================================
+ 
+[   1]        :                                       name "mycode"   ; output file name (max 8 chars for DOS compatibility)
+[   2]        :                                       
+[   3]        :                                       org  100h	; set location counter to 100h
+[   4]        :                                       
+[   5]        :                                       ; you may customize this and other start-up templates
+[   6]        :                                       ; the location of this template is c:\emu8086\inc\0_com_template.txt
+[   7]        :                                       
+[   8]        :                                       ; disable blinking (for DOS/BIOS compatibility).
+[   9]    0100: B8 03 10                              mov ax, 1003h
+[  10]    0103: BB 00 00                              mov bx, 0
+[  11]    0106: CD 10                                 int 10h
+[  12]        :                                       
+[  13]        :                                       ; this is just a random code
+[  14]    0108: B8 34 12                              mov ax, 1234h      ; load ax with hexadecimal value.
+[  15]    010B: BA 34 12                              mov dx, 0x1234     ; 0x is a valid hexadecimal prefix too.
+[  16]    010E: B8 D2 04                              mov ax, 1234       ; load ax with 04D2h = decimal 1234 = 10011010010b.
+[  17]    0111: B8 CD AB                              mov ax, 0ABCDh     ; must have 0 prefix if first digit is A,B,C,D,E or F
+[  18]    0114: BA CD AB                              mov dx, 0xABCD     ;                                      or use 0x prefix.
+[  19]    0117: 8A 16 1D 01                           mov dl, TeSt1      ; the integrated 8086 assembler is not case sensitive, test1=TeSt1, AX=ax, etc...
+[  20]    011B: EB 01                                 jmp n              ; jump over 1 byte to skip over the test1 variable.
+[  21]    011D: 20                                    test1 db 20h       ; 1 byte variable 20h = 32.
+[  22]    011E:                                       n:
+[  23]    011E: 02 D2                                 add dl, dl         ; dl = dl+dl = 20h+20h = 40h = 64 = 01000000b
+[  24]    0120: FE C2                                 inc dl             ; dl = dl+1 = 41h = 65 = 'A' (ascii code)
+[  25]    0122: B4 02                                 mov ah, 2          ; ah and dl are parameters for int 21h
+[  26]    0124: CD 21                                 int 21h            ; print 'A'.
+[  27]    0126: B2 01                                 mov dl, 1          ; ascii code 1 is a funny face.
+[  28]    0128: CD 21                                 int 21h            ; print it.
+[  29]    012A: B0 E5                                 mov al, 11100101b  ; b suffix is for binary. 11100101b = 0xE5 = 229
+[  30]    012C: 34 FE                                 xor al, 1111_1110b ; _ can separate nibbles.
+[  31]        :                                       
+[  32]        :                                       ; hello1.asm
+[  33]        :                                       ; to screen "Hello World!"
+[  34]        :                                       .model tiny ; model of memory for COM
+[  35]    0100:                                       .code ; beginning of the code segment
+[  36]        :                                       org 100h ; initial IP value = 100h
+[  37]    0100: B8 03                                 start: mov ah,9 ; DOS function number - in AN
+[  38]    0102: 10 BB 00                              mov dx,offset message ; the address of the line is in DX
+[  39]    0105: 00 CD                                 int 21h ; calling a DOS system function
+[  40]    0107: 10                                    ret ; completion of the COM program
+[  41]    0108: B8 34 12 BA 34 12 B8 D2 04 B8 CD AB   message db "Hello World!",0Dh,0Ah,'$' ; output string
+                BA CD AB                            
+[  42]        :                                       end start ; end of the program
+[  43]        :                                       
+[  44]        :                                       mov dx, 0705h      ; print message using BIOS function at 7,5
+[  45]        :                                       mov bx, 0          ; page 0.
+[  46]        :                                       mov bl, 10011111b  ; white on blue.
+[  47]        :                                       mov cx, msg_size   ; number of characters to print.
+[  48]        :                                       mov al, 01b        ; update cursor only.
+[  49]        :                                       mov bp, offset msg
+[  50]        :                                       mov ah, 13h        ; BIOS function for print.
+[  51]        :                                       int 10h            ; print message at es:bp.
+[  52]        :                                       
+[  53]        :                                       mov ah, 0          ; wait for any key....
+[  54]        :                                       int 10110b         ; same as int 16h or int 22.
+[  55]        :                                       
+[  56]        :                                       ret   ; return to the operating system.
+[  57]        :                                       
+[  58]        :                                       msg         db "press any key..."
+[  59]        :                                       msg_size =  $ - offset msg
+[  60]        :                                       
+[  61]        :                                       
+[  62]        :                                       
+[  63]        :                                       
+[  64]        :                                       
+[  65]        :                                       
+[  66]        :                                       
+[  67]        :                                       
+ 
+===================================================================================================
+ 
+
+
+
+
+===================================================================================================

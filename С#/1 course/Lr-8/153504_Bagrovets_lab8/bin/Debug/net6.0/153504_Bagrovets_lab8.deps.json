@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "153504_Bagrovets_lab8/1.0.0": {
+        "runtime": {
+          "153504_Bagrovets_lab8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "153504_Bagrovets_lab8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

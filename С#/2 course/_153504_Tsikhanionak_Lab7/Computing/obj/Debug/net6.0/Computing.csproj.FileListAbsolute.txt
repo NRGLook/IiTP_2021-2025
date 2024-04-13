@@ -1,0 +1,12 @@
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab7\Computing\bin\Debug\net6.0\Computing.deps.json
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab7\Computing\bin\Debug\net6.0\Computing.dll
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab7\Computing\bin\Debug\net6.0\Computing.pdb
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab7\Computing\obj\Debug\net6.0\Computing.csproj.AssemblyReference.cache
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab7\Computing\obj\Debug\net6.0\Computing.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab7\Computing\obj\Debug\net6.0\Computing.AssemblyInfoInputs.cache
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab7\Computing\obj\Debug\net6.0\Computing.AssemblyInfo.cs
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab7\Computing\obj\Debug\net6.0\Computing.csproj.CoreCompileInputs.cache
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab7\Computing\obj\Debug\net6.0\Computing.dll
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab7\Computing\obj\Debug\net6.0\refint\Computing.dll
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab7\Computing\obj\Debug\net6.0\Computing.pdb
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab7\Computing\obj\Debug\net6.0\ref\Computing.dll

@@ -1,0 +1,15 @@
+D:\C#\2 semester\Lr-8\153504_Bagrovets_lab8\bin\Debug\net6.0\LaborotoryWork_8.exe
+D:\C#\2 semester\Lr-8\153504_Bagrovets_lab8\bin\Debug\net6.0\LaborotoryWork_8.deps.json
+D:\C#\2 semester\Lr-8\153504_Bagrovets_lab8\bin\Debug\net6.0\LaborotoryWork_8.runtimeconfig.json
+D:\C#\2 semester\Lr-8\153504_Bagrovets_lab8\bin\Debug\net6.0\LaborotoryWork_8.dll
+D:\C#\2 semester\Lr-8\153504_Bagrovets_lab8\bin\Debug\net6.0\LaborotoryWork_8.pdb
+D:\C#\2 semester\Lr-8\153504_Bagrovets_lab8\obj\Debug\net6.0\LaborotoryWork_8.csproj.AssemblyReference.cache
+D:\C#\2 semester\Lr-8\153504_Bagrovets_lab8\obj\Debug\net6.0\LaborotoryWork_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2 semester\Lr-8\153504_Bagrovets_lab8\obj\Debug\net6.0\LaborotoryWork_8.AssemblyInfoInputs.cache
+D:\C#\2 semester\Lr-8\153504_Bagrovets_lab8\obj\Debug\net6.0\LaborotoryWork_8.AssemblyInfo.cs
+D:\C#\2 semester\Lr-8\153504_Bagrovets_lab8\obj\Debug\net6.0\LaborotoryWork_8.csproj.CoreCompileInputs.cache
+D:\C#\2 semester\Lr-8\153504_Bagrovets_lab8\obj\Debug\net6.0\LaborotoryWork_8.dll
+D:\C#\2 semester\Lr-8\153504_Bagrovets_lab8\obj\Debug\net6.0\refint\LaborotoryWork_8.dll
+D:\C#\2 semester\Lr-8\153504_Bagrovets_lab8\obj\Debug\net6.0\LaborotoryWork_8.pdb
+D:\C#\2 semester\Lr-8\153504_Bagrovets_lab8\obj\Debug\net6.0\LaborotoryWork_8.genruntimeconfig.cache
+D:\C#\2 semester\Lr-8\153504_Bagrovets_lab8\obj\Debug\net6.0\ref\LaborotoryWork_8.dll

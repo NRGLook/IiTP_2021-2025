@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_6.cup">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAABCAAAAAAAAAAAAAAAAAAAAAAAIAAAEGAAA=</HashCode>
+      <FileName>cup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_6.Сocktail">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Сocktail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_6.composition">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAABCAAAAAAECAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>composition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

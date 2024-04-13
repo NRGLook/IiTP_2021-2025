@@ -1,0 +1,23 @@
+  ADDR B1 B2 B3 B4 D:\Assembler\Ready2.asm                          PAGE       1
+
+                    org $8000
+  8000 CE 00 01     ldx #01
+  8003 EC 00        ldd 0,x
+  8005 E3 03        addd 3,x
+  8007 ED 00        std 0,x
+  8009 09           dex
+  800A A6 00        ldaa 0,x
+  800C A9 03        adca 3,x
+  800E A7 00        staa 0,x
+  8010 CE 00 02     ldx #$2
+  8013 A6 00        ldaa 0,x
+  8015 E6 03        ldab 3,x
+  8017 10           sba
+  8018 09           dex
+  8019 A6 00        ldaa 0,x
+  801B A2 03        sbca 3,x
+  801D A7 00        staa 0,x
+  801F 09           dex
+  8020 A6 00        ldaa 0,x
+  8022 A2 03        sbca 3,x
+  8024 A7 00        staa 0,x

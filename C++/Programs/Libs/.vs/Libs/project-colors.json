@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f8274618-a64c-4a48-8625-3995ff504bbb": {
+      "ProjectGuid": "f8274618-a64c-4a48-8625-3995ff504bbb",
+      "DisplayName": "StaticLib",
+      "ColorIndex": 0
+    },
+    "1f171cbd-a1eb-4a80-89ff-c9d1023598c8": {
+      "ProjectGuid": "1f171cbd-a1eb-4a80-89ff-c9d1023598c8",
+      "DisplayName": "Task1",
+      "ColorIndex": 1
+    },
+    "9d444f9a-7085-4934-b04a-95af4f74c3bc": {
+      "ProjectGuid": "9d444f9a-7085-4934-b04a-95af4f74c3bc",
+      "DisplayName": "DynamicLib",
+      "ColorIndex": 2
+    },
+    "e7775356-aa00-48c3-8d47-b36e29c457ab": {
+      "ProjectGuid": "e7775356-aa00-48c3-8d47-b36e29c457ab",
+      "DisplayName": "Test2",
+      "ColorIndex": 3
+    },
+    "1f5e5fff-4668-456c-8f13-7f821de8610a": {
+      "ProjectGuid": "1f5e5fff-4668-456c-8f13-7f821de8610a",
+      "DisplayName": "StaticLib2",
+      "ColorIndex": 4
+    },
+    "aaab46cd-5173-4257-8a39-5b94e44ac9ed": {
+      "ProjectGuid": "aaab46cd-5173-4257-8a39-5b94e44ac9ed",
+      "DisplayName": "Test3",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

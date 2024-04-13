@@ -1,0 +1,15 @@
+D:\C#\2 course(first semester)\secondsem-readyfor1lab\secondsem-readyfor1lab\bin\Debug\net6.0\secondsem-readyfor1lab.exe
+D:\C#\2 course(first semester)\secondsem-readyfor1lab\secondsem-readyfor1lab\bin\Debug\net6.0\secondsem-readyfor1lab.deps.json
+D:\C#\2 course(first semester)\secondsem-readyfor1lab\secondsem-readyfor1lab\bin\Debug\net6.0\secondsem-readyfor1lab.runtimeconfig.json
+D:\C#\2 course(first semester)\secondsem-readyfor1lab\secondsem-readyfor1lab\bin\Debug\net6.0\secondsem-readyfor1lab.dll
+D:\C#\2 course(first semester)\secondsem-readyfor1lab\secondsem-readyfor1lab\bin\Debug\net6.0\secondsem-readyfor1lab.pdb
+D:\C#\2 course(first semester)\secondsem-readyfor1lab\secondsem-readyfor1lab\obj\Debug\net6.0\secondsem-readyfor1lab.csproj.AssemblyReference.cache
+D:\C#\2 course(first semester)\secondsem-readyfor1lab\secondsem-readyfor1lab\obj\Debug\net6.0\secondsem-readyfor1lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2 course(first semester)\secondsem-readyfor1lab\secondsem-readyfor1lab\obj\Debug\net6.0\secondsem-readyfor1lab.AssemblyInfoInputs.cache
+D:\C#\2 course(first semester)\secondsem-readyfor1lab\secondsem-readyfor1lab\obj\Debug\net6.0\secondsem-readyfor1lab.AssemblyInfo.cs
+D:\C#\2 course(first semester)\secondsem-readyfor1lab\secondsem-readyfor1lab\obj\Debug\net6.0\secondsem-readyfor1lab.csproj.CoreCompileInputs.cache
+D:\C#\2 course(first semester)\secondsem-readyfor1lab\secondsem-readyfor1lab\obj\Debug\net6.0\secondsem-readyfor1lab.dll
+D:\C#\2 course(first semester)\secondsem-readyfor1lab\secondsem-readyfor1lab\obj\Debug\net6.0\refint\secondsem-readyfor1lab.dll
+D:\C#\2 course(first semester)\secondsem-readyfor1lab\secondsem-readyfor1lab\obj\Debug\net6.0\secondsem-readyfor1lab.pdb
+D:\C#\2 course(first semester)\secondsem-readyfor1lab\secondsem-readyfor1lab\obj\Debug\net6.0\secondsem-readyfor1lab.genruntimeconfig.cache
+D:\C#\2 course(first semester)\secondsem-readyfor1lab\secondsem-readyfor1lab\obj\Debug\net6.0\ref\secondsem-readyfor1lab.dll

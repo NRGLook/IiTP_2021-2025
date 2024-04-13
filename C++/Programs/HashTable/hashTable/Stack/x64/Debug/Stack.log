@@ -1,0 +1,5 @@
+﻿  Stack.cpp
+D:\C++\Полезные штучки\HashTable\hashTable\Stack\Stack.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\C++\Полезные штучки\HashTable\hashTable\Stack\Stack.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\C++\Полезные штучки\HashTable\hashTable\Stack\Stack.cpp(55,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Stack.vcxproj -> D:\C++\Полезные штучки\HashTable\hashTable\x64\Debug\Stack.exe

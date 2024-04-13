@@ -1,0 +1,8 @@
+  ADDR B1 B2 B3 B4 thrass11.tmp                                     PAGE       1
+
+  C000 86 FF        ldaa #255
+  C002 C6 02        ldab #2
+  C004 1B           aba
+  C005 16           tab
+  C006 4F           clra
+  C007 89 00        adca #0

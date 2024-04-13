@@ -1,0 +1,8 @@
+﻿  Pashyk.cpp
+D:\C++\Полезные штучки\Pashyk\Pashyk\Pashyk.cpp(20,35): warning C4244: инициализация: преобразование "size_t" в "float", возможна потеря данных
+D:\C++\Полезные штучки\Pashyk\Pashyk\Pashyk.cpp(21,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\C++\Полезные штучки\Pashyk\Pashyk\Pashyk.cpp(35,32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\C++\Полезные штучки\Pashyk\Pashyk\Pashyk.cpp(47,33): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\C++\Полезные штучки\Pashyk\Pashyk\Pashyk.cpp(51,12): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+D:\C++\Полезные штучки\Pashyk\Pashyk\Pashyk.cpp(55,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Pashyk.vcxproj -> D:\C++\Полезные штучки\Pashyk\x64\Debug\Pashyk.exe

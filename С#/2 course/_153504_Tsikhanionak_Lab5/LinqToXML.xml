@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Stations>
+  <Station>
+    <Luggage_Compartment isFull="true" Capacity="0" />
+    <Directions>Minsk Gomel </Directions>
+  </Station>
+  <Station>
+    <Luggage_Compartment isFull="false" Capacity="123" />
+    <Directions>Grodno Brest </Directions>
+  </Station>
+  <Station>
+    <Luggage_Compartment isFull="true" Capacity="246" />
+    <Directions>Vitebsk Mogilev </Directions>
+  </Station>
+</Stations>

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ee64d14-c045-416a-a6f6-ffad53f3dfd8": {
+      "ProjectGuid": "0ee64d14-c045-416a-a6f6-ffad53f3dfd8",
+      "DisplayName": "Pashyk",
+      "ColorIndex": 0
+    },
+    "7329d7de-046c-4d03-b7cf-0ce8de32c93e": {
+      "ProjectGuid": "7329d7de-046c-4d03-b7cf-0ce8de32c93e",
+      "DisplayName": "codepahsi",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

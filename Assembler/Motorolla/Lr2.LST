@@ -1,0 +1,19 @@
+  ADDR B1 B2 B3 B4 D:\Assembler\Lr2.asm                             PAGE       1
+
+                    org $8000
+  8000 36           psha
+  8001 37           pshb
+  8002 3C           pshx
+  8003 18 3C        pshy
+  8005 07           tpa
+  8006 36           psha
+  8007 CC 6D 76     ldd #$6d76
+  800A CE 40 B3     ldx #$40b3
+  800D 02           idiv
+  800E 32           pula
+  800F 06           tap
+  8010 18 38        puly
+  8012 38           pulx
+  8013 33           pulb
+  8014 32           pula
+

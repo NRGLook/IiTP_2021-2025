@@ -1,0 +1,3 @@
+﻿  IteratorstovectoraccordingSimpleCode.cpp
+VectoraccordingtoSimpleCode.obj : error LNK2005: main уже определен в IteratorstovectoraccordingSimpleCode.obj
+D:\C++\Полезные штучки\Vector\VectoraccordingtoSimpleCode\x64\Debug\VectoraccordingtoSimpleCode.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

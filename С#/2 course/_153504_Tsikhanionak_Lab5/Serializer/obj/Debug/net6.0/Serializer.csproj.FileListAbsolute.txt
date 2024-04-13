@@ -1,0 +1,15 @@
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab5\Serializer\bin\Debug\net6.0\Serializer.deps.json
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab5\Serializer\bin\Debug\net6.0\Serializer.dll
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab5\Serializer\bin\Debug\net6.0\Serializer.pdb
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab5\Serializer\bin\Debug\net6.0\Domain.dll
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab5\Serializer\bin\Debug\net6.0\Domain.pdb
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab5\Serializer\obj\Debug\net6.0\Serializer.csproj.AssemblyReference.cache
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab5\Serializer\obj\Debug\net6.0\Serializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab5\Serializer\obj\Debug\net6.0\Serializer.AssemblyInfoInputs.cache
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab5\Serializer\obj\Debug\net6.0\Serializer.AssemblyInfo.cs
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab5\Serializer\obj\Debug\net6.0\Serializer.csproj.CoreCompileInputs.cache
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab5\Serializer\obj\Debug\net6.0\Serializer.csproj.CopyComplete
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab5\Serializer\obj\Debug\net6.0\Serializer.dll
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab5\Serializer\obj\Debug\net6.0\refint\Serializer.dll
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab5\Serializer\obj\Debug\net6.0\Serializer.pdb
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab5\Serializer\obj\Debug\net6.0\ref\Serializer.dll

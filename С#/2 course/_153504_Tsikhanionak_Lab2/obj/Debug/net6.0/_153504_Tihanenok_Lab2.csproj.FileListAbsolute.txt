@@ -1,0 +1,15 @@
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab2\bin\Debug\net6.0\_153504_Tihanenok_Lab2.exe
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab2\bin\Debug\net6.0\_153504_Tihanenok_Lab2.deps.json
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab2\bin\Debug\net6.0\_153504_Tihanenok_Lab2.runtimeconfig.json
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab2\bin\Debug\net6.0\_153504_Tihanenok_Lab2.dll
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab2\bin\Debug\net6.0\_153504_Tihanenok_Lab2.pdb
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab2\obj\Debug\net6.0\_153504_Tihanenok_Lab2.csproj.AssemblyReference.cache
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab2\obj\Debug\net6.0\_153504_Tihanenok_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab2\obj\Debug\net6.0\_153504_Tihanenok_Lab2.AssemblyInfoInputs.cache
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab2\obj\Debug\net6.0\_153504_Tihanenok_Lab2.AssemblyInfo.cs
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab2\obj\Debug\net6.0\_153504_Tihanenok_Lab2.csproj.CoreCompileInputs.cache
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab2\obj\Debug\net6.0\_153504_Tihanenok_Lab2.dll
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab2\obj\Debug\net6.0\refint\_153504_Tihanenok_Lab2.dll
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab2\obj\Debug\net6.0\_153504_Tihanenok_Lab2.pdb
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab2\obj\Debug\net6.0\_153504_Tihanenok_Lab2.genruntimeconfig.cache
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab2\obj\Debug\net6.0\ref\_153504_Tihanenok_Lab2.dll

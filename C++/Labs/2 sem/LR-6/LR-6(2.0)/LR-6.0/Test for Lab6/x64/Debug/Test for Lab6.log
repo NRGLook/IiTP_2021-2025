@@ -1,0 +1,24 @@
+﻿  test.cpp
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(205,26): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(206,42): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(208,28): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(213,28): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(218,33): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(219,40): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(226,22): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(226,58): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(229,37): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(232,52): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(238,23): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(238,45): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(238,83): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(238,104): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(238,138): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(238,160): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(238,194): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(243,26): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(247,31): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(251,26): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(255,37): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\Test for Lab6\test.cpp(256,40): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+  Test for Lab6.vcxproj -> D:\C++\Важные работы\LR-6\LR-6(2.0)\LR-6.0\x64\Debug\Test for Lab6.exe

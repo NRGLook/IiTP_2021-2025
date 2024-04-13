@@ -1,0 +1,15 @@
+D:\C#\2 semester\Lr-3\Task1-official\Task_1\Task_1\obj\Debug\net6.0\Task_1.csproj.AssemblyReference.cache
+D:\C#\2 semester\Lr-3\Task1-official\Task_1\Task_1\obj\Debug\net6.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2 semester\Lr-3\Task1-official\Task_1\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfoInputs.cache
+D:\C#\2 semester\Lr-3\Task1-official\Task_1\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfo.cs
+D:\C#\2 semester\Lr-3\Task1-official\Task_1\Task_1\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
+D:\C#\2 semester\Lr-3\Task1-official\Task_1\Task_1\bin\Debug\net6.0\Task_1.exe
+D:\C#\2 semester\Lr-3\Task1-official\Task_1\Task_1\bin\Debug\net6.0\Task_1.deps.json
+D:\C#\2 semester\Lr-3\Task1-official\Task_1\Task_1\bin\Debug\net6.0\Task_1.runtimeconfig.json
+D:\C#\2 semester\Lr-3\Task1-official\Task_1\Task_1\bin\Debug\net6.0\Task_1.dll
+D:\C#\2 semester\Lr-3\Task1-official\Task_1\Task_1\bin\Debug\net6.0\Task_1.pdb
+D:\C#\2 semester\Lr-3\Task1-official\Task_1\Task_1\obj\Debug\net6.0\Task_1.dll
+D:\C#\2 semester\Lr-3\Task1-official\Task_1\Task_1\obj\Debug\net6.0\refint\Task_1.dll
+D:\C#\2 semester\Lr-3\Task1-official\Task_1\Task_1\obj\Debug\net6.0\Task_1.pdb
+D:\C#\2 semester\Lr-3\Task1-official\Task_1\Task_1\obj\Debug\net6.0\Task_1.genruntimeconfig.cache
+D:\C#\2 semester\Lr-3\Task1-official\Task_1\Task_1\obj\Debug\net6.0\ref\Task_1.dll

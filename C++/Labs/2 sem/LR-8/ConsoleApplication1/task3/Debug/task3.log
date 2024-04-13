@@ -1,0 +1,3 @@
+﻿  task3.cpp
+C:\Projects\Лабораторные работы 1 семестр\lab8\task3\task3.cpp(62,22): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  task3.vcxproj -> C:\Projects\Лабораторные работы 1 семестр\lab8\Debug\task3.exe

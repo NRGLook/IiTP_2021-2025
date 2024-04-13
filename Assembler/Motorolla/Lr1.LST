@@ -1,0 +1,11 @@
+  ADDR B1 B2 B3 B4 D:\Assembler\Lr1.asm                             PAGE       1
+
+                    org $8000
+  8000 C6 00        ldab #$0
+  8002 36           psha
+  8003 37           pshb
+  8004 38           pulx
+  8005 36           psha
+  8006 37           pshb
+  8007 18 38        puly
+  8009 16           tab

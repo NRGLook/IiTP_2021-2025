@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d57400f-955d-4d61-8e32-bce9287344a1": {
+      "ProjectGuid": "2d57400f-955d-4d61-8e32-bce9287344a1",
+      "DisplayName": "LR-6.0",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "5ed37a8b-bc7e-463e-9ce3-f146f7c3e261": {
+      "ProjectGuid": "5ed37a8b-bc7e-463e-9ce3-f146f7c3e261",
+      "DisplayName": "LR-6-2",
+      "ColorIndex": 1
+    },
+    "4961afc3-ea1d-48ad-94d4-0b46554465ce": {
+      "ProjectGuid": "4961afc3-ea1d-48ad-94d4-0b46554465ce",
+      "DisplayName": "LR-6-3",
+      "ColorIndex": 2
+    },
+    "8d1bf67d-2adb-43e0-8a42-7d8fb4bc2a6a": {
+      "ProjectGuid": "8d1bf67d-2adb-43e0-8a42-7d8fb4bc2a6a",
+      "DisplayName": "LR-6-1",
+      "ColorIndex": 3
+    },
+    "030b4225-a344-4379-8728-bfc2147f6760": {
+      "ProjectGuid": "030b4225-a344-4379-8728-bfc2147f6760",
+      "DisplayName": "Test for Lab6",
+      "ColorIndex": 4
+    },
+    "95b7e74a-5542-444d-9d3d-2b526df41bc3": {
+      "ProjectGuid": "95b7e74a-5542-444d-9d3d-2b526df41bc3",
+      "DisplayName": "LR-6-9",
+      "ColorIndex": 5
+    },
+    "ced7b58e-11ce-49b3-9906-a58572b2c59a": {
+      "ProjectGuid": "ced7b58e-11ce-49b3-9906-a58572b2c59a",
+      "DisplayName": "LR-6-4",
+      "ColorIndex": 6
+    },
+    "500b6bc5-9a88-4244-9903-10fbc0afe9fd": {
+      "ProjectGuid": "500b6bc5-9a88-4244-9903-10fbc0afe9fd",
+      "DisplayName": "LR-6-5",
+      "ColorIndex": 7
+    },
+    "6fb493ff-de8a-4a78-a1e0-c0ce55aa47ac": {
+      "ProjectGuid": "6fb493ff-de8a-4a78-a1e0-c0ce55aa47ac",
+      "DisplayName": "LR-6-6",
+      "ColorIndex": 8
+    },
+    "5fd4e9bb-89a1-44d4-b5fa-0b31ad203ee4": {
+      "ProjectGuid": "5fd4e9bb-89a1-44d4-b5fa-0b31ad203ee4",
+      "DisplayName": "LR-6-7",
+      "ColorIndex": 9
+    },
+    "495bab9d-4a6d-4586-b111-5ca3cfde1874": {
+      "ProjectGuid": "495bab9d-4a6d-4586-b111-5ca3cfde1874",
+      "DisplayName": "LR-6-8",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

@@ -1,0 +1,15 @@
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab3\obj\Debug\net6.0\_153504_Tsikhanionak_Lab3.csproj.AssemblyReference.cache
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab3\obj\Debug\net6.0\_153504_Tsikhanionak_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab3\obj\Debug\net6.0\_153504_Tsikhanionak_Lab3.AssemblyInfoInputs.cache
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab3\obj\Debug\net6.0\_153504_Tsikhanionak_Lab3.AssemblyInfo.cs
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab3\obj\Debug\net6.0\_153504_Tsikhanionak_Lab3.csproj.CoreCompileInputs.cache
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab3\bin\Debug\net6.0\_153504_Tsikhanionak_Lab3.exe
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab3\bin\Debug\net6.0\_153504_Tsikhanionak_Lab3.deps.json
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab3\bin\Debug\net6.0\_153504_Tsikhanionak_Lab3.runtimeconfig.json
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab3\bin\Debug\net6.0\_153504_Tsikhanionak_Lab3.dll
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab3\bin\Debug\net6.0\_153504_Tsikhanionak_Lab3.pdb
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab3\obj\Debug\net6.0\_153504_Tsikhanionak_Lab3.dll
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab3\obj\Debug\net6.0\refint\_153504_Tsikhanionak_Lab3.dll
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab3\obj\Debug\net6.0\_153504_Tsikhanionak_Lab3.pdb
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab3\obj\Debug\net6.0\_153504_Tsikhanionak_Lab3.genruntimeconfig.cache
+D:\C#\2 course(first semester)\_153504_Tsikhanionak_Lab3\obj\Debug\net6.0\ref\_153504_Tsikhanionak_Lab3.dll

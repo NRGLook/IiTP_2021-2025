@@ -1,0 +1,15 @@
+D:\C#\2 semester\Lr-5\bin\Debug\net6.0\LaborotoryWork5.exe
+D:\C#\2 semester\Lr-5\bin\Debug\net6.0\LaborotoryWork5.deps.json
+D:\C#\2 semester\Lr-5\bin\Debug\net6.0\LaborotoryWork5.runtimeconfig.json
+D:\C#\2 semester\Lr-5\bin\Debug\net6.0\LaborotoryWork5.dll
+D:\C#\2 semester\Lr-5\bin\Debug\net6.0\LaborotoryWork5.pdb
+D:\C#\2 semester\Lr-5\obj\Debug\net6.0\LaborotoryWork5.csproj.AssemblyReference.cache
+D:\C#\2 semester\Lr-5\obj\Debug\net6.0\LaborotoryWork5.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2 semester\Lr-5\obj\Debug\net6.0\LaborotoryWork5.AssemblyInfoInputs.cache
+D:\C#\2 semester\Lr-5\obj\Debug\net6.0\LaborotoryWork5.AssemblyInfo.cs
+D:\C#\2 semester\Lr-5\obj\Debug\net6.0\LaborotoryWork5.csproj.CoreCompileInputs.cache
+D:\C#\2 semester\Lr-5\obj\Debug\net6.0\LaborotoryWork5.dll
+D:\C#\2 semester\Lr-5\obj\Debug\net6.0\refint\LaborotoryWork5.dll
+D:\C#\2 semester\Lr-5\obj\Debug\net6.0\LaborotoryWork5.pdb
+D:\C#\2 semester\Lr-5\obj\Debug\net6.0\LaborotoryWork5.genruntimeconfig.cache
+D:\C#\2 semester\Lr-5\obj\Debug\net6.0\ref\LaborotoryWork5.dll

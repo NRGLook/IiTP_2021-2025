@@ -1,0 +1,20 @@
+  ADDR B1 B2 B3 B4 D:\Assembler\Ready4.asm                          PAGE       1
+
+  C000 CE 82 00            ldx #$8200
+  C003 18 CE 82 FF         ldy #$82ff
+                   swap:
+  C007 A6 00               ldaa 0,x
+  C009 36                  psha
+  C00A 18 A6 00            ldaa 0,y
+  C00D A7 00               staa 0,x
+  C00F 32                  pula
+  C010 18 A7 00            staa 0,y
+  C013 08                  inx
+  C014 18 09               dey
+  C016 8C 82 80            cpx #$8280
+  C019 26 EC               bne swap
+  C01B 01                  nop
+
+  Symbol Table 
+
+  SWAP               C007

@@ -1,0 +1,15 @@
+D:\C#\2 semester\Lr-4\Zhes\Zhes\bin\Debug\net6.0\Zhes.exe
+D:\C#\2 semester\Lr-4\Zhes\Zhes\bin\Debug\net6.0\Zhes.deps.json
+D:\C#\2 semester\Lr-4\Zhes\Zhes\bin\Debug\net6.0\Zhes.runtimeconfig.json
+D:\C#\2 semester\Lr-4\Zhes\Zhes\bin\Debug\net6.0\Zhes.dll
+D:\C#\2 semester\Lr-4\Zhes\Zhes\bin\Debug\net6.0\Zhes.pdb
+D:\C#\2 semester\Lr-4\Zhes\Zhes\obj\Debug\net6.0\Zhes.csproj.AssemblyReference.cache
+D:\C#\2 semester\Lr-4\Zhes\Zhes\obj\Debug\net6.0\Zhes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2 semester\Lr-4\Zhes\Zhes\obj\Debug\net6.0\Zhes.AssemblyInfoInputs.cache
+D:\C#\2 semester\Lr-4\Zhes\Zhes\obj\Debug\net6.0\Zhes.AssemblyInfo.cs
+D:\C#\2 semester\Lr-4\Zhes\Zhes\obj\Debug\net6.0\Zhes.csproj.CoreCompileInputs.cache
+D:\C#\2 semester\Lr-4\Zhes\Zhes\obj\Debug\net6.0\Zhes.dll
+D:\C#\2 semester\Lr-4\Zhes\Zhes\obj\Debug\net6.0\refint\Zhes.dll
+D:\C#\2 semester\Lr-4\Zhes\Zhes\obj\Debug\net6.0\Zhes.pdb
+D:\C#\2 semester\Lr-4\Zhes\Zhes\obj\Debug\net6.0\Zhes.genruntimeconfig.cache
+D:\C#\2 semester\Lr-4\Zhes\Zhes\obj\Debug\net6.0\ref\Zhes.dll

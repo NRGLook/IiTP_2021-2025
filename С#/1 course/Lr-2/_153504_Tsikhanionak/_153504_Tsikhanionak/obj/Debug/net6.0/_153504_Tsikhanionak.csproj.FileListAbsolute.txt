@@ -1,0 +1,17 @@
+D:\C#\2 semester\Lr-1\_153504_Tsikhanionak\_153504_Tsikhanionak\bin\Debug\net6.0\_153504_Tsikhanionak.exe
+D:\C#\2 semester\Lr-1\_153504_Tsikhanionak\_153504_Tsikhanionak\bin\Debug\net6.0\_153504_Tsikhanionak.deps.json
+D:\C#\2 semester\Lr-1\_153504_Tsikhanionak\_153504_Tsikhanionak\bin\Debug\net6.0\_153504_Tsikhanionak.runtimeconfig.json
+D:\C#\2 semester\Lr-1\_153504_Tsikhanionak\_153504_Tsikhanionak\bin\Debug\net6.0\_153504_Tsikhanionak.dll
+D:\C#\2 semester\Lr-1\_153504_Tsikhanionak\_153504_Tsikhanionak\bin\Debug\net6.0\_153504_Tsikhanionak.pdb
+D:\C#\2 semester\Lr-1\_153504_Tsikhanionak\_153504_Tsikhanionak\bin\Debug\net6.0\AutoMapper.dll
+D:\C#\2 semester\Lr-1\_153504_Tsikhanionak\_153504_Tsikhanionak\obj\Debug\net6.0\_153504_Tsikhanionak.csproj.AssemblyReference.cache
+D:\C#\2 semester\Lr-1\_153504_Tsikhanionak\_153504_Tsikhanionak\obj\Debug\net6.0\_153504_Tsikhanionak.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2 semester\Lr-1\_153504_Tsikhanionak\_153504_Tsikhanionak\obj\Debug\net6.0\_153504_Tsikhanionak.AssemblyInfoInputs.cache
+D:\C#\2 semester\Lr-1\_153504_Tsikhanionak\_153504_Tsikhanionak\obj\Debug\net6.0\_153504_Tsikhanionak.AssemblyInfo.cs
+D:\C#\2 semester\Lr-1\_153504_Tsikhanionak\_153504_Tsikhanionak\obj\Debug\net6.0\_153504_Tsikhanionak.csproj.CoreCompileInputs.cache
+D:\C#\2 semester\Lr-1\_153504_Tsikhanionak\_153504_Tsikhanionak\obj\Debug\net6.0\_153504_Tsikhanionak.csproj.CopyComplete
+D:\C#\2 semester\Lr-1\_153504_Tsikhanionak\_153504_Tsikhanionak\obj\Debug\net6.0\_153504_Tsikhanionak.dll
+D:\C#\2 semester\Lr-1\_153504_Tsikhanionak\_153504_Tsikhanionak\obj\Debug\net6.0\refint\_153504_Tsikhanionak.dll
+D:\C#\2 semester\Lr-1\_153504_Tsikhanionak\_153504_Tsikhanionak\obj\Debug\net6.0\_153504_Tsikhanionak.pdb
+D:\C#\2 semester\Lr-1\_153504_Tsikhanionak\_153504_Tsikhanionak\obj\Debug\net6.0\_153504_Tsikhanionak.genruntimeconfig.cache
+D:\C#\2 semester\Lr-1\_153504_Tsikhanionak\_153504_Tsikhanionak\obj\Debug\net6.0\ref\_153504_Tsikhanionak.dll

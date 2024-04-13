@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4+Q0VGT8ZU0a3HMJ/mDuISCqBzJLnd7xM9yOuwGOezdeij2bpKOmAW3030WKQ4eM8VmoVgRqbePukDX7VlhzVA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\2 semester\\Lr-2\\_153504_Tsikhanionak\\_153504_Tsikhanionak\\LR-2-2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

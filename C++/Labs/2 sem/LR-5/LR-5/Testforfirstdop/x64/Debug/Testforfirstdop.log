@@ -1,0 +1,6 @@
+﻿  test.cpp
+D:\C++\Важные работы\LR-5\LR-5\Testforfirstdop\test.cpp(72,2): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-5\LR-5\Testforfirstdop\test.cpp(77,2): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-5\LR-5\Testforfirstdop\test.cpp(82,2): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+D:\C++\Важные работы\LR-5\LR-5\Testforfirstdop\test.cpp(87,2): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+  Testforfirstdop.vcxproj -> D:\C++\Важные работы\LR-5\LR-5\x64\Debug\Testforfirstdop.exe

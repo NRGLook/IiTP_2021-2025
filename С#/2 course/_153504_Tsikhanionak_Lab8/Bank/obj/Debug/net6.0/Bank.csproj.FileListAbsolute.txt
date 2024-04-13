@@ -1,0 +1,12 @@
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab8\Bank\bin\Debug\net6.0\Bank.deps.json
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab8\Bank\bin\Debug\net6.0\Bank.dll
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab8\Bank\bin\Debug\net6.0\Bank.pdb
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab8\Bank\obj\Debug\net6.0\Bank.csproj.AssemblyReference.cache
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab8\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab8\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab8\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab8\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab8\Bank\obj\Debug\net6.0\Bank.dll
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab8\Bank\obj\Debug\net6.0\refint\Bank.dll
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab8\Bank\obj\Debug\net6.0\Bank.pdb
+D:\C#\2 course(first semester)\_153504_Pryhozhy_Lab8\Bank\obj\Debug\net6.0\ref\Bank.dll

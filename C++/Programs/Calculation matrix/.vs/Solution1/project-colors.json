@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "82a21be9-0b5a-4c32-9a52-2b56b3a4bbfb": {
+      "ProjectGuid": "82a21be9-0b5a-4c32-9a52-2b56b3a4bbfb",
+      "DisplayName": "Calculation matrix",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

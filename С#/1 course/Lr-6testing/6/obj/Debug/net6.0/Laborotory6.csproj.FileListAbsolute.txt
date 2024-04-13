@@ -1,0 +1,15 @@
+D:\C#\2 semester\Lr-6testing\6\bin\Debug\net6.0\Laborotory6.exe
+D:\C#\2 semester\Lr-6testing\6\bin\Debug\net6.0\Laborotory6.deps.json
+D:\C#\2 semester\Lr-6testing\6\bin\Debug\net6.0\Laborotory6.runtimeconfig.json
+D:\C#\2 semester\Lr-6testing\6\bin\Debug\net6.0\Laborotory6.dll
+D:\C#\2 semester\Lr-6testing\6\bin\Debug\net6.0\Laborotory6.pdb
+D:\C#\2 semester\Lr-6testing\6\obj\Debug\net6.0\Laborotory6.csproj.AssemblyReference.cache
+D:\C#\2 semester\Lr-6testing\6\obj\Debug\net6.0\Laborotory6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2 semester\Lr-6testing\6\obj\Debug\net6.0\Laborotory6.AssemblyInfoInputs.cache
+D:\C#\2 semester\Lr-6testing\6\obj\Debug\net6.0\Laborotory6.AssemblyInfo.cs
+D:\C#\2 semester\Lr-6testing\6\obj\Debug\net6.0\Laborotory6.csproj.CoreCompileInputs.cache
+D:\C#\2 semester\Lr-6testing\6\obj\Debug\net6.0\Laborotory6.dll
+D:\C#\2 semester\Lr-6testing\6\obj\Debug\net6.0\refint\Laborotory6.dll
+D:\C#\2 semester\Lr-6testing\6\obj\Debug\net6.0\Laborotory6.pdb
+D:\C#\2 semester\Lr-6testing\6\obj\Debug\net6.0\Laborotory6.genruntimeconfig.cache
+D:\C#\2 semester\Lr-6testing\6\obj\Debug\net6.0\ref\Laborotory6.dll

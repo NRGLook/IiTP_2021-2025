@@ -1,0 +1,10 @@
+D:/C++/QT/two semester/Lab 5/Task1/picture1.jpg
+D:/C++/QT/two semester/Lab 5/Task1/picture2.jpg
+D:/C++/QT/two semester/Lab 5/Task1/picture3.jpg
+D:/C++/QT/two semester/Lab 5/Task1/picture4.jpg
+D:/C++/QT/two semester/Lab 5/Task1/picture5.jpg
+D:/C++/QT/two semester/Lab 5/Task1/picture6.jpg
+D:/C++/QT/two semester/Lab 5/Task1/picture7.jpg
+D:/C++/QT/two semester/Lab 5/Task1/picture8.jpg
+D:/C++/QT/two semester/Lab 5/Task1/picture9.jpg
+D:/C++/QT/two semester/Lab 5/Task1/picture10.jpg

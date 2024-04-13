@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ea9a07a3-d614-48a8-8e62-b7ead72999eb": {
+      "ProjectGuid": "ea9a07a3-d614-48a8-8e62-b7ead72999eb",
+      "DisplayName": "LR-3",
+      "ColorIndex": 0
+    },
+    "8d47e3a7-1d45-4321-9a68-31003280be69": {
+      "ProjectGuid": "8d47e3a7-1d45-4321-9a68-31003280be69",
+      "DisplayName": "LR-3-2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

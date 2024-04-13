@@ -1,0 +1,15 @@
+D:\C#\2 course(first semester)\CSHARPLearning\CSHARPLearning\bin\Debug\net6.0\CSHARPLearning.exe
+D:\C#\2 course(first semester)\CSHARPLearning\CSHARPLearning\bin\Debug\net6.0\CSHARPLearning.deps.json
+D:\C#\2 course(first semester)\CSHARPLearning\CSHARPLearning\bin\Debug\net6.0\CSHARPLearning.runtimeconfig.json
+D:\C#\2 course(first semester)\CSHARPLearning\CSHARPLearning\bin\Debug\net6.0\CSHARPLearning.dll
+D:\C#\2 course(first semester)\CSHARPLearning\CSHARPLearning\bin\Debug\net6.0\CSHARPLearning.pdb
+D:\C#\2 course(first semester)\CSHARPLearning\CSHARPLearning\obj\Debug\net6.0\CSHARPLearning.csproj.AssemblyReference.cache
+D:\C#\2 course(first semester)\CSHARPLearning\CSHARPLearning\obj\Debug\net6.0\CSHARPLearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2 course(first semester)\CSHARPLearning\CSHARPLearning\obj\Debug\net6.0\CSHARPLearning.AssemblyInfoInputs.cache
+D:\C#\2 course(first semester)\CSHARPLearning\CSHARPLearning\obj\Debug\net6.0\CSHARPLearning.AssemblyInfo.cs
+D:\C#\2 course(first semester)\CSHARPLearning\CSHARPLearning\obj\Debug\net6.0\CSHARPLearning.csproj.CoreCompileInputs.cache
+D:\C#\2 course(first semester)\CSHARPLearning\CSHARPLearning\obj\Debug\net6.0\CSHARPLearning.dll
+D:\C#\2 course(first semester)\CSHARPLearning\CSHARPLearning\obj\Debug\net6.0\refint\CSHARPLearning.dll
+D:\C#\2 course(first semester)\CSHARPLearning\CSHARPLearning\obj\Debug\net6.0\CSHARPLearning.pdb
+D:\C#\2 course(first semester)\CSHARPLearning\CSHARPLearning\obj\Debug\net6.0\CSHARPLearning.genruntimeconfig.cache
+D:\C#\2 course(first semester)\CSHARPLearning\CSHARPLearning\obj\Debug\net6.0\ref\CSHARPLearning.dll

@@ -1,0 +1,6 @@
+﻿  LR-7-1-2.0(without).cpp
+D:\C++\Важные работы\LR-7\LR-7\LR-7-1-2.0(without)\LR-7-1-2.0(without).cpp(29,11): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+D:\C++\Важные работы\LR-7\LR-7\LR-7-1-2.0(without)\LR-7-1-2.0(without).cpp(33,37): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\C++\Важные работы\LR-7\LR-7\LR-7-1-2.0(without)\LR-7-1-2.0(without).cpp(36,17): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\C++\Важные работы\LR-7\LR-7\LR-7-1-2.0(without)\LR-7-1-2.0(without).cpp(24): warning C4715: convert: значение возвращается не при всех путях выполнения
+  LR-7-1-2.0(without).vcxproj -> D:\C++\Важные работы\LR-7\LR-7\x64\Debug\LR-7-1-2.0(without).exe

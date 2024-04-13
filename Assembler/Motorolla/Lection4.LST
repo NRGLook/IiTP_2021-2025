@@ -1,0 +1,8 @@
+  ADDR B1 B2 B3 B4 thrass11.tmp                                     PAGE       1
+
+  C000 C6 CC        ldab #%11001100
+  C002 C6 AA        ldab #%10101010
+  C004 84 0F        anda #%00001111
+  C006 C4 F0        andb #%11110000
+  C008 1B           aba
+                    *  a  b

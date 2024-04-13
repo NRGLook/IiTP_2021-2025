@@ -1,0 +1,15 @@
+﻿  test.cpp
+D:\C++\Важные работы\LR-7\LR-7\TestingforLab7\test.cpp(134,14): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+D:\C++\Важные работы\LR-7\LR-7\TestingforLab7\test.cpp(138,43): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\C++\Важные работы\LR-7\LR-7\TestingforLab7\test.cpp(141,23): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\C++\Важные работы\LR-7\LR-7\TestingforLab7\test.cpp(252,33): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\C++\Важные работы\LR-7\LR-7\TestingforLab7\test.cpp(257,31): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\C++\Важные работы\LR-7\LR-7\TestingforLab7\test.cpp(477,5): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\Важные работы\LR-7\LR-7\TestingforLab7\test.cpp(486,5): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\Важные работы\LR-7\LR-7\TestingforLab7\test.cpp(495,5): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\Важные работы\LR-7\LR-7\TestingforLab7\test.cpp(504,5): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\Важные работы\LR-7\LR-7\TestingforLab7\test.cpp(512,5): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\Важные работы\LR-7\LR-7\TestingforLab7\test.cpp(521,5): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\Важные работы\LR-7\LR-7\TestingforLab7\test.cpp(206): warning C4715: getnum: значение возвращается не при всех путях выполнения
+D:\C++\Важные работы\LR-7\LR-7\TestingforLab7\test.cpp(130): warning C4715: convert: значение возвращается не при всех путях выполнения
+  TestingforLab7.vcxproj -> D:\C++\Важные работы\LR-7\LR-7\x64\Debug\TestingforLab7.exe

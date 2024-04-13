@@ -1,0 +1,15 @@
+D:\C#\2 semester\Lr-2\LR-2-1\bin\Debug\net6.0\LR-2-1.exe
+D:\C#\2 semester\Lr-2\LR-2-1\bin\Debug\net6.0\LR-2-1.deps.json
+D:\C#\2 semester\Lr-2\LR-2-1\bin\Debug\net6.0\LR-2-1.runtimeconfig.json
+D:\C#\2 semester\Lr-2\LR-2-1\bin\Debug\net6.0\LR-2-1.dll
+D:\C#\2 semester\Lr-2\LR-2-1\bin\Debug\net6.0\LR-2-1.pdb
+D:\C#\2 semester\Lr-2\LR-2-1\obj\Debug\net6.0\LR-2-1.csproj.AssemblyReference.cache
+D:\C#\2 semester\Lr-2\LR-2-1\obj\Debug\net6.0\LR-2-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2 semester\Lr-2\LR-2-1\obj\Debug\net6.0\LR-2-1.AssemblyInfoInputs.cache
+D:\C#\2 semester\Lr-2\LR-2-1\obj\Debug\net6.0\LR-2-1.AssemblyInfo.cs
+D:\C#\2 semester\Lr-2\LR-2-1\obj\Debug\net6.0\LR-2-1.csproj.CoreCompileInputs.cache
+D:\C#\2 semester\Lr-2\LR-2-1\obj\Debug\net6.0\LR-2-1.dll
+D:\C#\2 semester\Lr-2\LR-2-1\obj\Debug\net6.0\refint\LR-2-1.dll
+D:\C#\2 semester\Lr-2\LR-2-1\obj\Debug\net6.0\LR-2-1.pdb
+D:\C#\2 semester\Lr-2\LR-2-1\obj\Debug\net6.0\LR-2-1.genruntimeconfig.cache
+D:\C#\2 semester\Lr-2\LR-2-1\obj\Debug\net6.0\ref\LR-2-1.dll
